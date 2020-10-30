@@ -1,2 +1,2 @@
 # DogeClickBot
-dogeclickbot for telegram
+Dogeclickbot for Telegram
